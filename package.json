@@ -1,0 +1,28 @@
+{
+  "name": "dubhacks2020",
+  "version": "1.0.0",
+  "description": "Calendar Web App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeJamUS/DubHacks2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeJamUS/DubHacks2020/issues"
+  },
+  "homepage": "https://github.com/WeJamUS/DubHacks2020#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0",
+    "nodemon": "^2.0.5",
+    "pg": "^8.4.1",
+    "request": "^2.88.2"
+  }
+}
